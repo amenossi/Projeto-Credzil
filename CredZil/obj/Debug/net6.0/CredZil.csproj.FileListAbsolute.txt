@@ -1,0 +1,14 @@
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\bin\Debug\net6.0\CredZil.exe
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\bin\Debug\net6.0\CredZil.deps.json
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\bin\Debug\net6.0\CredZil.runtimeconfig.json
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\bin\Debug\net6.0\CredZil.dll
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\bin\Debug\net6.0\CredZil.pdb
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.AssemblyInfoInputs.cache
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.AssemblyInfo.cs
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.csproj.CoreCompileInputs.cache
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.dll
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\refint\CredZil.dll
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.pdb
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\CredZil.genruntimeconfig.cache
+C:\Users\allan.menossi\Documents\cursos\demonstração\CredZil\obj\Debug\net6.0\ref\CredZil.dll
